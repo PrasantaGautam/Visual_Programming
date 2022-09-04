@@ -1,4 +1,4 @@
-// Question : Make a Falg of Nepal using asterik (*)
+// Question : Make a Flag of Nepal using asterik (*)
 *
 **
 ***
